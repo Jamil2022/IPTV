@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg- group-title="Sports",T SPORTS 
+#EXTINF:-1 tvg-group-title="Sports",T SPORTS 
 http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 tvg- group-title="Sports",GTV
 http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
@@ -100,3 +100,5 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m
 #EXTINF:-1 group-title="Sports",TYC SPORTS
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169975
 
+#EXTINF:-1 group-title="Sports",Dubai sports 
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
