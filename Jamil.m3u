@@ -1,33 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-group-title="SPORTS",T SPORTS 
-http://xtream.efiberbd.net:8080/live/mkaua/stream/3.m3u8
-#EXTINF:-1 tvg- group-title="SPORTS",GTV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/4.m3u8
-#EXTINF:-1 tvg- group-title="SPORTS",STAR SPORTS 1
-http://xtream.efiberbd.net:8080/live/mkaua/stream/36.m3u8
-#EXTINF:-1 tvg- group-title="SPORTS",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg- group-title="SPORTS",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg- group-title="SPORTS",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg- group-title="SPORTS",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg- group-title="SPORTS",TYC SPORTS
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169975
 
 #EXTINF:-1 tvg- group-title="SPORTS",Dubai sports 
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg- group-title="SPORTS",Sharjah sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?v=1765999971
-
-
-
-
-****************
-
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?v=17659999
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="Bangla",BTV World
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",ANANDO TV
@@ -96,46 +73,11 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/playlist.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="Bangla",Peace Tv Bangla
 
-
-
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 1
-http://45.127.244.7:8080/hls/channel1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 2
-http://45.127.244.7:8080/hls/channel2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 3
-http://45.127.244.7:8080/hls/channel3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 4
-http://45.127.244.7:8080/hls/channel4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 5
-http://45.127.244.7:8080/hls/channel5.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 6
-http://45.127.244.7:8080/hls/channel6.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 7
-http://45.127.244.7:8080/hls/channel7.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 8
-http://45.127.244.7:8080/hls/channel8.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 9
-http://45.127.244.7:8080/hls/channel9.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 10
-http://45.127.244.7:8080/hls/channel10.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 11
-http://45.127.244.7:8080/hls/channel11.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 12
-http://45.127.244.7:8080/hls/channel12.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 13
-http://45.127.244.7:8080/hls/channel13.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 14
-http://45.127.244.7:8080/hls/channel14.m3u8
-#EXTINF:-1 tvg-logo=""group-title="New",Channel 15
-http://45.127.244.7:8080/hls/channel15.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 1  
 http://live.mymoviebazar.net/stream101.m3u8?|Referer=http://mymoviebazar.net/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports  2
 http://live.mymoviebazar.net/stream102.m3u8?|Referer=http://mymoviebazar.net/
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/2py487hx" group-title="Live Sports", Live Sports 3
 http://live.mymoviebazar.net/stream104.m3u8?|Referer=http://mymoviebazar.net/
